@@ -10,7 +10,7 @@
 
 각각의 자세한 내용은 project1 과 project2 폴더의 readme.md 를 통해 설명하였다.
 
-project1 출처 :
+project1 출처 : https://pysource.com/2021/01/28/object-tracking-with-opencv-and-python/
 
 project2 출처 : https://github.com/ndrplz/self-driving-car/tree/master/project_1_lane_finding_basic
 
