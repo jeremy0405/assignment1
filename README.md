@@ -12,5 +12,5 @@
 
 project1 출처 :
 
-project2 출처 :
+project2 출처 : https://github.com/ndrplz/self-driving-car/tree/master/project_1_lane_finding_basic
 
