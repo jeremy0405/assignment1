@@ -34,4 +34,10 @@ r θ 평면에서 (x1, y1)한 점을 지나는 xcosθ + ysinθ = r 식은 x 와 
 (x1, y1)과 (x2, y2)를 잇는 직선이 존재한다는 것을 의미하게 된다. 따라서 허프변환은 Canny 변환된 이미지의 edge 주변의 모든픽셀에대해서 xcosθ + ysinθ = r 에 대한 변수 θ와 r에 대한 그래프를 그리고 교점이 있는 경우에만 추출을 하여 직선을 추출하는 원리를 갖고 있다. 
 
 
+project2 실행 결과는 다음과 같다.
+![solidWhiteRight](https://user-images.githubusercontent.com/81368630/113741882-09507880-973d-11eb-8c9e-897b19a6d3ed.jpg)
+![whiteCarLaneSwitch](https://user-images.githubusercontent.com/81368630/113741959-179e9480-973d-11eb-96b3-356206f0a46a.jpg)
+
+
+
 
