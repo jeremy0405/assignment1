@@ -1,4 +1,3 @@
-# assignment1
 
 # 2. 자율주행 인지에 관련된 2종 이상 Open Source 조사, 정리
 
